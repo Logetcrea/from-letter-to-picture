@@ -1,0 +1,49 @@
+body{
+  background-color: black;
+  color: white;
+  font-family: Geneva;
+}
+
+  h1{
+    font-weight: lighter;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    height: 50%;
+    padding: 20px;
+    text-align: center;
+    /*z-index: 300;*//*z-index is for blending text over pic*/
+}
+
+  div{
+  /*  padding-left:20px;
+    padding-top:100px;
+    padding-right:20px;*/
+    color: #909090;
+    font-weight: lighter;
+    position: absolute;
+    left: 50%;
+    top: 130%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    height: 50%;
+    padding: 20px;
+    text-align: center;*/
+    /*z-index: 300;*/
+  }
+  /*@media (max-width:500px) {div {width: 60%}}
+  @media (min-width:501px) {div {width: 350px}}*/
+
+  canvas {
+    /*z-index: 100;*/
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    height: 50%;
+    padding: 20px;
+    text-align: center;
+  }
