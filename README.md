@@ -38,7 +38,8 @@ I asked people to follow these steps:
 	a non-filled rectangle (2:1)
 	- fill with turquoise if you're happy the lower half,
 	if you're unhappy the upper half of this rectangle;
-	if you're neither happy nor unhappy, draw a filled rectangle centered in the non-filled rectangle
+	if you're neither happy nor unhappy, draw a filled rectangle
+	centered in the non-filled rectangle
 	with the same width, but only the half height
 	- if you're either happy or unhappy, draw two filled triangle
 	starting each in an empty edge of the non-filled rectangle
