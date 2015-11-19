@@ -103,17 +103,22 @@ The different movements symbolize the many different kinds of writing a letter.
 There are a lot opportunities to use my algorithm.  
 
 use as carpet:  
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/impementations/carpet.png" width="19%" />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/implementations/carpet.png" width="100%" />
 
 use as lamp:  
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/impementations/carpet, lamp.png" width="19%" />  
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/implementations/carpet, lamp.png" width="100%" />  
 
 use as pool floor:  
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/impementations/pool-floor.png" width="19%" />  
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/implementations/pool-floor.png" width="100%" />  
+
+use as post card to pick up the main idea of a letter:  
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/implementations/pool-card.png" width="49.5%" />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/implementations/poolcard.png" width="49.5%" /> 
+  
 
 use as fountain-light-installation:  
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/impementations/fountain up.png" width="19%" />  
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/impementations/carpet.png" width="19%" />  
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/implementations/fountain up.png" width="100%" />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/implementations/fountain.png" width="100%" />  
 
 -
 
