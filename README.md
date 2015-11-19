@@ -12,7 +12,7 @@ In this project I am trying to translate the different layout types of letters t
  
  
 ######algo
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/51.png" width="19%" style="display: inline-block;" />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/gh-pages/screenshots/51.png" width="19%" style="display: inline-block;" />
 -
 
 ######Demo
