@@ -112,11 +112,11 @@ use as pool floor:
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/implementations/pool-floor.png" width="100%" />  
 
 use as post card to pick up the main idea of a letter:  
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/implementations/pool-card.png" width="49.5%" />
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/implementations/poolcard.png" width="49.5%" /> 
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/implementations/post-card.JPG" width="49.5%" />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/implementations/postcard.png" width="49.5%" /> 
   
 
-use as fountain-light-installation:  
+My personal favorite is to transfer the picure into 3D. The different colors are different platforms with different lights and fountains if you use as fountain-light-installation:  
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/implementations/fountain up.png" width="100%" />
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/implementations/fountain.png" width="100%" />  
 
