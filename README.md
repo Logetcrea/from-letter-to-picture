@@ -9,10 +9,17 @@
 
 ######About
 In this project I am trying to translate the different layout types of letters to artificial coded  pictures.
-
+ 
+ 
+######algo
+<img src="https://raw.githubusercontent.com/vogelino/molecular-networks-p5-algorithm/master/documentation/Algorithm-01-result-1.jpg" width="19%" style="display: inline-block;" />
 -
 
 ######Demo
+The three rectangles symbolize the areas of the date, green, addressee, blue,  and the sender, violet.  
+The startpositions of these rectangles depend on the probability for being there in normal kinds of letter layouts.  
+The different movements symbolize the many different kinds of writing a letter.  
+
 [Algorithm](http://logetcrea.github.io/from-letter-to-picture/index.html)
 
 -
