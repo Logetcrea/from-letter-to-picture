@@ -34,13 +34,15 @@ and I got results like these:
 I asked people to follow these steps:  
 
 	- take a white DIN-A4 paper
-	- paint with a wax crayon in turquoise on the lower half of the paper a non-filled rectangle (2:1)
-	- fill with turquoise if you're happy the lower half, if you're unhappy the upper half of this rectangle;
+	- paint with a wax crayon in turquoise on the lower half of the paper
+	a non-filled rectangle (2:1)
+	- fill with turquoise if you're happy the lower half,
+	if you're unhappy the upper half of this rectangle;
 	if you're neither happy nor unhappy, draw a filled rectangle centered in the non-filled rectangle
 	with the same width, but only the half height
 	- if you're either happy or unhappy, draw two filled triangle
-	starting each in an empty edge of the non-filled rectangle to the filled rectangle in 45°
-	and than to closest side of the non-filled rectangle
+	starting each in an empty edge of the non-filled rectangle
+	to the filled rectangle in 45° and than to closest side of the non-filled rectangle
 and I got results like these:
 
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/4.png" width="19%"  height="25%"/>
