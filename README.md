@@ -10,7 +10,7 @@
 
 In this project I am trying to translate the different layout types of letters to artificial coded  pictures.  
 I created this project in 2015 as part part of the course [*"Steel Ant - Input/Output"*](https://github.com/FH-Potsdam/steel-ant-input-output) at the **University of Applied Science** in Potsdam (Germany).  
-We dealed with the topic *generative design* and became acquainted with [P5.js](http://p5js.org/).
+We dealed with the topic *generative design* and became acquainted with [P5.js](http://p5js.org/) supported by Fabian Morón Zirfas [fabiantheblind](https://github.com/fabiantheblind) and also influenced by [Mey Lean Kronemann](http://meyleankronemann.de/).
 
 -
  
