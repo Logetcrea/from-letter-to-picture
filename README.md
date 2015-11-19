@@ -16,8 +16,10 @@ In this project I am trying to translate the different layout types of letters t
 I asked people to follow these steps:  
 
 	- take a white DIN-A4 paper
-	- paint with your finger a crescent on the lower half of the paper with its opening to the top of the paper with a color of your desire
-	- write a letter, the date in red, the addressee in blue and the sender in green; the rest with a pen, but use instead of words and numbers irregular wavy lines
+	- paint with your finger a crescent on the lower half of the paper
+	with its opening to the top of the paper with a color of your desire
+	- write a letter, the date in red, the addressee in blue and the sender in green;
+	the rest with a pen, but use instead of words and numbers irregular wavy lines
 and I got results like these:
 
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/2.JPG" width="20%"  />
