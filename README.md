@@ -50,11 +50,11 @@ I asked people to follow these steps:
 	- draw in each blue rectangle an filled ellipse with the color of your iris
 and I got results like these:
 
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/2.png" width="19%"  height="25%"/>
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/4.png" width="19%"  height="25%"/>
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/4.png" width="19%"  height="25%"/>
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/4.png" width="19%"  height="25%"/>
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/4.png" width="19%"  height="25%"/>
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/4.png" width="19%"  height="25%"/>
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/1.png" width="19%"  height="25%"/>
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/3.png" width="19%"  height="25%"/>
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/7.png" width="19%"  height="25%"/>
 
 
 ######Demo
