@@ -43,8 +43,17 @@ I asked people to follow these steps:
 	- if you're either happy or unhappy, draw two filled triangle
 	starting each in an empty edge of the non-filled rectangle
 	to the filled rectangle in 45° and than to closest side of the non-filled rectangle
+	- write a letter above these forms, but draw instead of the date a darkgreen filled rectangle,
+	instead of the addressee a lightblue non-filled rectangle,
+	instead of the sender a darkblue non-filled rectangle,
+	write the rest of the letter in lightgreen, but use instead of words straight lines
+	- draw in each blue rectangle an filled ellipse with the color of your iris
 and I got results like these:
 
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/4.png" width="19%"  height="25%"/>
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/4.png" width="19%"  height="25%"/>
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/4.png" width="19%"  height="25%"/>
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/4.png" width="19%"  height="25%"/>
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/4.png" width="19%"  height="25%"/>
 
 
