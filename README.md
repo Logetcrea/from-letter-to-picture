@@ -25,7 +25,7 @@ and I got results like these:
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/4.JPG" width="19%"  height="25%"/>
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/7.JPG" width="19%"  height="25%"/>
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/2.JPG" width="19%" height="25%" />
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/10.JPG" width="17.5%" height="25%"/>
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/10.JPG" width="19%" height="25%"/>
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/8.JPG" width="19%" height="25%"/>
 
 -
