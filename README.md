@@ -67,10 +67,15 @@ I started simple and drew just static forms, with different probabilities of the
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (1).png" width="19%"  height="25%"/>
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (2).png" width="19%"  height="25%"/>  
 
-Then I decided to let these forms rotating around their own center and flowing over a black paper:
+then I decided to let these forms rotating around their own center and flowing over a black paper:
 
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (2) Kopie.png" width="19%"  height="25%"/>
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (5).png" width="19%"  height="25%"/>
+
+I deleted the filling to get the forms lighter and changed the color and the opacity:
+
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (6).png" width="19%"  height="25%"/>
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (7).png" width="19%"  height="25%"/>
 
 -
 
