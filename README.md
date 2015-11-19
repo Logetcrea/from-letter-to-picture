@@ -2,17 +2,18 @@
 
 -
 
-###from letter to picture
+###*from letter to picture*
 
 ---
 
+######about
 
-######About
 In this project I am trying to translate the different layout types of letters to artificial coded  pictures.
 
 -
  
-######first analog version
+######first analog algorithm
+
 I asked people to follow these steps:  
 
 	- take a white DIN-A4 paper
@@ -30,7 +31,8 @@ and I got results like these:
 
 -
 
-######second analog version
+######second analog algorithm
+
 I asked people to follow these steps:  
 
 	- take a white DIN-A4 paper
@@ -42,7 +44,7 @@ I asked people to follow these steps:
 	centered in the non-filled rectangle with the same width, but only the half height
 	- if you're either happy or unhappy, draw two filled triangle
 	starting each in an empty edge of the non-filled rectangle
-	to the filled rectangle in 45° and than to closest side of the non-filled rectangle
+	to the filled rectangle in 45° and then to closest side of the non-filled rectangle
 	- write a letter above these forms, but draw instead of the date a darkgreen filled
 	rectangle, instead of the addressee a lightblue non-filled rectangle,
 	instead of the sender a darkblue non-filled rectangle,
@@ -56,13 +58,29 @@ and I got results like these:
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/3.png" width="19%"  height="25%"/>
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/7.png" width="19%"  height="25%"/>
 
+-
 
-######Demo
+######digital algorithm process
+
+I started simple and drew just static forms, with different probabilities of their position:
+
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (1).png" width="19%"  height="25%"/>
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (2).png" width="19%"  height="25%"/>  
+
+Then I decided to let these forms rotating around their own center and flowing over a black paper:
+
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (2) Kopie.png" width="19%"  height="25%"/>
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (5).png" width="19%"  height="25%"/>
+
+-
+
+######digital algorithm
+
 The three rectangles symbolize the areas of the date, green, addressee, blue,  and the sender, violet.  
 The startpositions of these rectangles depend on the probability for being there in normal kinds of letter layouts.  
 The different movements symbolize the many different kinds of writing a letter.  
 
-[Algorithm](http://logetcrea.github.io/from-letter-to-picture/index.html)
+[algorithm](http://logetcrea.github.io/from-letter-to-picture/index.html)
 
 -
 
