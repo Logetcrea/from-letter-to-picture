@@ -8,7 +8,9 @@
 
 ######about
 
-In this project I am trying to translate the different layout types of letters to artificial coded  pictures.
+In this project I am trying to translate the different layout types of letters to artificial coded  pictures.  
+I created this project in 2015 as part part of the course [*"Steel Ant - Input/Output"*](https://github.com/FH-Potsdam/steel-ant-input-output) at the **University of Applied Science** in Potsdam (Germany).  
+We dealed with the topic *generative design* and became acquainted with [P5.js](http://p5js.org/).
 
 -
  
@@ -75,7 +77,12 @@ then I decided to let these forms rotating around their own center and flowing o
 I deleted the filling to get the forms lighter and changed the color and the opacity:
 
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (6).png" width="19%"  height="25%"/>
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (7).png" width="19%"  height="25%"/>
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (7).png" width="19%"  height="25%"/>  
+
+I decided to change the format to square:
+
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (25).png" width="19%"  height="25%"/>
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (26).png" width="19%"  height="25%"/>
 
 -
 
