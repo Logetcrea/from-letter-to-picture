@@ -25,11 +25,11 @@ I asked people to follow these steps:
 	the rest with a pen, but use instead of words and numbers irregular wavy lines
 and I got results like these:
 
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/4.JPG" width="19%"  height="25%"/>
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/7.JPG" width="19%"  height="25%"/>
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/2.JPG" width="19%" height="25%" />
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/10.JPG" width="19%" height="25%"/>
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/8.JPG" width="19%" height="25%"/>
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/4.JPG" width="19%"  />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/7.JPG" width="19%"  />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/2.JPG" width="19%"  />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/10.JPG" width="19%" />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/8.JPG" width="19%" />
 
 -
 
@@ -54,11 +54,11 @@ I asked people to follow these steps:
 	- draw in each blue rectangle an filled ellipse with the color of your iris
 and I got results like these:
 
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/2.png" width="19%"  height="25%"/>
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/4.png" width="19%"  height="25%"/>
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/1.png" width="19%"  height="25%"/>
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/3.png" width="19%"  height="25%"/>
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/7.png" width="19%"  height="25%"/>
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/2.png" width="19%"  />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/4.png" width="19%"  />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/1.png" width="19%"  />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/3.png" width="19%"  />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/2.version/7.png" width="19%"  />
 
 -
 
@@ -66,23 +66,25 @@ and I got results like these:
 
 I started simple and drew just static forms, with different probabilities of their position:
 
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (1).png" width="19%"  height="25%"/>
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (2).png" width="19%"  height="25%"/>  
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (1).png" width="19%"  />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (2).png" width="19%"  />  
 
 then I decided to let these forms rotating around their own center and flowing over a black paper:
 
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (2) Kopie.png" width="19%"  height="25%"/>
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (5).png" width="19%"  height="25%"/>
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (2) Kopie.png" width="19%" />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (5).png" width="19%" />
 
 I deleted the filling to get the forms lighter and changed the color and the opacity:
 
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (6).png" width="19%"  height="25%"/>
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (7).png" width="19%"  height="25%"/>  
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (6).png" width="19%" />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (7).png" width="19%" />  
 
-I decided to change the format to square:
+I decided to change the format to square and again the background to white:
 
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (25).png" width="19%"  height="25%"/>
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/digital-process/img (26).png" width="19%"  height="25%"/>
+
+In the next steps I changed some values of the range and the rotation of the rectangles, refined the color choice and set the .js file to no background but wrote into the .html a black one. So if you safe via clicking "s" a generated picture, you'll get only the drawn picture as .png file.
 
 -
 
@@ -93,6 +95,25 @@ The startpositions of these rectangles depend on the probability for being there
 The different movements symbolize the many different kinds of writing a letter.  
 
 [algorithm](http://logetcrea.github.io/from-letter-to-picture/index.html)
+
+-
+
+######implementation
+
+There are a lot opportunities to use my algorithm.  
+
+use as carpet:  
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/impementations/carpet.png" width="19%" />
+
+use as lamp:  
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/impementations/carpet, lamp.png" width="19%" />  
+
+use as pool floor:  
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/impementations/pool-floor.png" width="19%" />  
+
+use as fountain-light-installation:  
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/impementations/fountain up.png" width="19%" />  
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/impementations/carpet.png" width="19%" />  
 
 -
 
