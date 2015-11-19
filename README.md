@@ -9,7 +9,8 @@
 
 ######About
 In this project I am trying to translate the different layout types of letters to artificial coded  pictures.
- 
+
+-
  
 ######first analog version
 I asked people to follow these steps:  
@@ -19,10 +20,11 @@ I asked people to follow these steps:
 	- write a letter, the date in red, the addressee in blue and the sender in green; the rest with a pen, but use instead of words and numbers irregular wavy lines
 and I got results like these:
 
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/2.JPG" width="19%" style="display: inline-block;" />
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/4.JPG" width="19%" style="display: inline-block;" />
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/7.JPG" width="19%" style="display: inline-block;" />
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/10.JPG" width="19%" style="display: inline-block;" />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/2.JPG" width="20%"  />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/4.JPG" width="20%"  />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/7.JPG" width="20%"  />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/10.JPG" width="20%" />
+
 -
 
 ######Demo
