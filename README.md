@@ -13,7 +13,7 @@ In this project I am trying to translate the different layout types of letters t
 -
 
 ######Demo
-
+[Algorithm](http://logetcrea.github.io/from-letter-to-picture/index.html)
 
 -
 
