@@ -19,10 +19,10 @@ I asked people to follow these steps:
 	- write a letter, the date in red, the addressee in blue and the sender in green; the rest with a pen, but use instead of words and numbers irregular wavy lines
 and I got results like these:
 
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/2.jpg" width="19%" style="display: inline-block;" />
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/4.jpg" width="19%" style="display: inline-block;" />
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/7.jpg" width="19%" style="display: inline-block;" />
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/10.jpg" width="19%" style="display: inline-block;" />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/2.JPG" width="19%" style="display: inline-block;" />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/4.JPG" width="19%" style="display: inline-block;" />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/7.JPG" width="19%" style="display: inline-block;" />
+<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/master/screenshots/1.version/10.JPG" width="19%" style="display: inline-block;" />
 -
 
 ######Demo
