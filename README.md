@@ -12,7 +12,7 @@ In this project I am trying to translate the different layout types of letters t
  
  
 ######algo
-<img src="https://raw.githubusercontent.com/vogelino/molecular-networks-p5-algorithm/master/documentation/Algorithm-01-result-1.jpg" width="19%" style="display: inline-block;" />
+<img src="https://raw.githubusercontent.com/logetcrea/molecular-networks-p5-algorithm/master/documentation/Algorithm-01-result-1.jpg" width="19%" style="display: inline-block;" />
 -
 
 ######Demo
