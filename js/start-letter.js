@@ -34,26 +34,26 @@ function particle (x, y, w, h, type){
  //this.factorY3 = random(3,5);
 
 
- //Appearance of the date
+ //Appearance of the date green
  this.display = function(){
 
-    stroke(130,40,60,8);
+    stroke(130,40,60,random(3,15));
     this.displayPush();
 
  };
 
-//Appearance of the addressee
+ //Appearance of the addressee blue
  this.display2 = function(){
 
-    stroke(200,50,65,8);
+    stroke(200,50,65,random(3,15));
     this.displayPush();
 
  };
 
-//Appearance of the sender
+ //Appearance of the sender purple
  this.display3 = function(){
 
-    stroke(270,40,90,8);
+    stroke(270,40,90,random(2,10));
     this.displayPush();
 
  };
