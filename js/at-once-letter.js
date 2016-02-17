@@ -2,7 +2,7 @@
 //from letter to picture\\
 
 
-// *** thanks to #fabiantheblind for sharing his code, mine is based on *** \\
+// ** thanks to #fabiantheblind for sharing his code, mine is based on ** \\
 
 var particles = [];
 
@@ -37,7 +37,7 @@ function particle (x, y, w, h, type){
  //Appearance of the date green
  this.display = function(){
 
-    stroke(130,40,60,random(3,15));
+    stroke(130,40,60,8);
     this.displayPush();
 
  };
@@ -45,7 +45,7 @@ function particle (x, y, w, h, type){
 //Appearance of the addressee blue
  this.display2 = function(){
 
-    stroke(200,50,65,random(3,15));
+    stroke(200,50,65,8);
     this.displayPush();
 
  };
@@ -53,7 +53,7 @@ function particle (x, y, w, h, type){
 //Appearance of the sender purple
  this.display3 = function(){
 
-    stroke(270,40,90,random(2,10));
+    stroke(270,40,90,6);
     this.displayPush();
 
  };
