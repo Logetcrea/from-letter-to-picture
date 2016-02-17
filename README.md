@@ -14,9 +14,9 @@ We dealed with the topic *generative design* and became acquainted with [P5.js](
 
 -
  
-<<<<<<< HEAD
+
 ######algo
-<<<<<<< HEAD
+
 <img src="https://raw.githubusercontent.com/logetcrea/molecular-networks-p5-algorithm/master/documentation/Algorithm-01-result-1.jpg" width="19%" style="display: inline-block;" />
 =======
 <img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/gh-pages/screenshots/51.png" width="19%" style="display: inline-block;" />
