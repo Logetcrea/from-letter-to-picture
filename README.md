@@ -15,12 +15,6 @@ We dealed with the topic *generative design* and became acquainted with [P5.js](
 -
  
 
-######algo
-
-
-<img src="https://raw.githubusercontent.com/logetcrea/from-letter-to-picture/gh-pages/screenshots/51.png" width="19%" style="display: inline-block;" />
->>>>>>> master
-
 ######first analog algorithm
 
 I asked people to follow these steps:  
