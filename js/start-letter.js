@@ -10,114 +10,114 @@ function runPSystem (){
 
   colorMode(HSB,360,100,100,100);
   for (var i = 0; i < particles.length;i++) {
-     particles[i].run();
-    }
+    particles[i].run();
+  }
 }
 
 function particle (x, y, w, h, type){
 
- this.type = type;
- this.x = x;
- this.y = y;
- this.w = w;
- this.h = h;
- this.counter = 0;
- this.rotation = 0;
- this.factorX = random(1.8,3);
- this.factorY = random(1.8,3);
- this.factorX2 = random(3,5);
- this.factorY2 = random(3,5);
- this.factorX3 = random(5,7.5);
- this.factorY3 = random(5,7.5);
-//if wide
- //this.factorX3 = random(3,5);
- //this.factorY3 = random(3,5);
+  this.type = type;
+  this.x = x;
+  this.y = y;
+  this.w = w;
+  this.h = h;
+  this.counter = 0;
+  this.rotation = 0;
+  this.factorX = random(1.8,3);
+  this.factorY = random(1.8,3);
+  this.factorX2 = random(3,5);
+  this.factorY2 = random(3,5);
+  this.factorX3 = random(5,7.5);
+  this.factorY3 = random(5,7.5);
+  //if wide
+  //this.factorX3 = random(3,5);
+  //this.factorY3 = random(3,5);
 
 
- //Appearance of the date green
- this.display = function(){
+  //Appearance of the date green
+  this.display = function(){
 
     stroke(130,40,60,8);
     this.displayPush();
 
- };
+  };
 
- //Appearance of the addressee blue
- this.display2 = function(){
+  //Appearance of the addressee blue
+  this.display2 = function(){
 
     stroke(200,50,65,8);
     this.displayPush();
 
- };
+  };
 
- //Appearance of the sender purple
- this.display3 = function(){
+  //Appearance of the sender purple
+  this.display3 = function(){
 
     stroke(270,40,90,6);
     this.displayPush();
 
- };
+  };
 
- this.displayPush = function(){
+  this.displayPush = function(){
 
-   noFill();
-   push();// set the matrix so it is always centered
-   translate(this.x, this.y);// push it to our position
-   rectMode(CENTER);// we want the rect to be centered
-   rotate(radians(this.rotation));// rotate it takes radians as arg
-   rect(0, 0, this.w, this.h);// draw the particle
-   pop();// push the matrix back
+    noFill();
+    push();// set the matrix so it is always centered
+    translate(this.x, this.y);// push it to our position
+    rectMode(CENTER);// we want the rect to be centered
+    rotate(radians(this.rotation));// rotate it takes radians as arg
+    rect(0, 0, this.w, this.h);// draw the particle
+    pop();// push the matrix back
 
- };
+  };
 
- this.displayAll = function(){
+  this.displayAll = function(){
 
-  if(this.type === 1){
-    this.display();
-    this.move();
-  }else if(this.type === 2){
-    this.display2();
-    this.move2();
-  }else{
-    this.display3();
-    this.move3();
-  }
+    if(this.type === 1){
+      this.display();
+      this.move();
+    }else if(this.type === 2){
+      this.display2();
+      this.move2();
+    }else{
+      this.display3();
+      this.move3();
+    }
 
-};
+  };
 
- this.turn = function(){
+  this.turn = function(){
 
-  this.rotation++;
+    this.rotation++;
 
- };
+  };
 
- this.moveAll = function(){
+  this.moveAll = function(){
 
-   if(this.type === 1){
-     this.move();
-   }else if(this.type === 2){
-     this.move2();
-   }else{
-     this.move3();
-   }
+    if(this.type === 1){
+      this.move();
+    }else if(this.type === 2){
+      this.move2();
+    }else{
+      this.move3();
+    }
 
- };
+  };
 
- this.move = function(){
+  this.move = function(){
 
-   var borderX = width/20;
-   var borderY = width/15;
-   var dateWidth = width/6;
-   var dateHeight = height/28;
-   var rectWidth = dateWidth * 1.5;
-   var rectHeight = dateHeight * 3;
+    var borderX = width/20;
+    var borderY = width/15;
+    var dateWidth = width/6;
+    var dateHeight = height/28;
+    var rectWidth = dateWidth * 1.5;
+    var rectHeight = dateHeight * 3;
 
-   if (this.counter === 0){
-     this.x++;
-     if (this.x > width - borderX * this.factorX){
-       this.counter = 1;
-     }
-   }
+    if (this.counter === 0){
+      this.x++;
+      if (this.x > width - borderX * this.factorX){
+        this.counter = 1;
+      }
+    }
 
     if (this.counter === 1){
       this.y++;
@@ -140,23 +140,23 @@ function particle (x, y, w, h, type){
       }
     }
 
- };
+  };
 
- this.move2 = function(){
+  this.move2 = function(){
 
-   var borderX = width/20;
-   var borderY = width/15;
-   var dateWidth = width/6;
-   var dateHeight = height/28;
-   var rectWidth = dateWidth * 1.5;
-   var rectHeight = dateHeight * 3;
+    var borderX = width/20;
+    var borderY = width/15;
+    var dateWidth = width/6;
+    var dateHeight = height/28;
+    var rectWidth = dateWidth * 1.5;
+    var rectHeight = dateHeight * 3;
 
-   if (this.counter === 0){
-     this.x++;
-     if (this.x > width - borderX * this.factorX2){
-       this.counter = 1;
-     }
-   }
+    if (this.counter === 0){
+      this.x++;
+      if (this.x > width - borderX * this.factorX2){
+        this.counter = 1;
+      }
+    }
 
     if (this.counter === 1){
       this.y++;
@@ -178,24 +178,24 @@ function particle (x, y, w, h, type){
         this.counter = 0;
       }
     }
- };
+  };
 
- this.move3 = function(){
+  this.move3 = function(){
 
-   var borderX = width/20;
-   var borderY = width/15;
-   var dateWidth = width/6;
-   var dateHeight = height/28;
-   var rectWidth = dateWidth * 1.5;
-   var rectHeight = dateHeight * 3;
+    var borderX = width/20;
+    var borderY = width/15;
+    var dateWidth = width/6;
+    var dateHeight = height/28;
+    var rectWidth = dateWidth * 1.5;
+    var rectHeight = dateHeight * 3;
 
 
-   if (this.counter === 0){
-     this.y--;
-     if (this.y < borderX * this.factorY3){
-       this.counter = 1;
-     }
-   }
+    if (this.counter === 0){
+      this.y--;
+      if (this.y < borderX * this.factorY3){
+        this.counter = 1;
+      }
+    }
 
     if (this.counter === 1){
       this.x++;
@@ -217,14 +217,14 @@ function particle (x, y, w, h, type){
         this.counter = 0;
       }
     }
- };
+  };
 
- this.run = function(){
+  this.run = function(){
 
-  this.displayAll();
-  this.turn();
+    this.displayAll();
+    this.turn();
 
-};
+  };
 }
 
 function setup() {
@@ -247,7 +247,7 @@ function setup() {
 
   rectMode(CENTER);
   strokeWeight(0.5);
-console.log(fluke);
+  console.log(fluke);
   //Date and the different positions and their probabilities
   if(fluke >= 7.5){
     particles.push(new particle(borderX + dateWidth/2, borderY + dateHeight/2, dateWidth, dateHeight, 1));
@@ -292,10 +292,10 @@ function draw() {
 
   //for generating a picture at once
   /*if (t<1){
-    for(var a = 0; a<random(3500,6000);a++){
-      runPSystem();
-    }
-  t++;
+  for(var a = 0; a<random(3500,6000);a++){
+  runPSystem();
+}
+t++;
 }*/
 console.log("t=" + t);
 

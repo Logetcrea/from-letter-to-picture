@@ -3,54 +3,54 @@ body{
   color: white;
 }
 
-  h1{
-    font-family: miama, cursive;
-    font-size: 25px;
-    font-weight: lighter;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    width: 50%;
-    height: 50%;
-    padding: 20px;
-    text-align: center;
-    /*z-index: 300; z-index is for blending text over pic*/
+h1{
+  font-family: miama, cursive;
+  font-size: 25px;
+  font-weight: lighter;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  height: 50%;
+  padding: 20px;
+  text-align: center;
+  /*z-index: 300; z-index is for blending text over pic*/
 }
 
-  div{
-    font-family: miama, cursive;
-    font-size: 13px;
-    color: #909090;
-    font-weight: lighter;
-    position: absolute;
-    left: 52%;
-    top: 130%;
-    transform: translate(-50%, -50%);
-    width: 50%;
-    height: 50%;
-    padding: 20px;
-    text-align: left;
-    /*z-index: 300;*/
-  }
+div{
+  font-family: miama, cursive;
+  font-size: 13px;
+  color: #909090;
+  font-weight: lighter;
+  position: absolute;
+  left: 52%;
+  top: 130%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  height: 50%;
+  padding: 20px;
+  text-align: left;
+  /*z-index: 300;*/
+}
 
-  canvas {
-    /*z-index: 100;*/
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    width: 50%;
-    height: 50%;
-    padding: 20px;
-    text-align: center;
-  }
+canvas {
+  /*z-index: 100;*/
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  height: 50%;
+  padding: 20px;
+  text-align: center;
+}
 
-  a{
-    font-weight: lighter;
-    color: #b49bce;
-  }
+a{
+  font-weight: lighter;
+  color: #b49bce;
+}
 
-  a:hover {
-    color: #669999;
-  }
+a:hover {
+  color: #669999;
+}
