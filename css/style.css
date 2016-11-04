@@ -47,6 +47,7 @@ canvas {
 }
 
 a{
+  text-align: right;
   font-weight: lighter;
   color: #b49bce;
 }
